@@ -5,9 +5,7 @@
 
 }
 
-ul, li{
-    list-style: none;
-}
+
 
 a{
     text-decoration: none;
@@ -46,3 +44,4 @@ a{
 .header .container .lang p.active{
     opacity: 1;
 }
+
